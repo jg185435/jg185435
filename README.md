@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Jayendra Kartheek G
+- 👀 I’m interested in Javascript frameworks around it
+- 🌱 I’m currently working with Banking and projects involved with it
+- 💞️ I’m looking to collaborate on Javascript especially react|vue|NodeJs or anything involving JS
+- 📫 How to reach me [Slack](https://ncr.enterprise.slack.com/team/U0798DSFWGY)
+- 😄 Pronouns: Jayendra, JK, Jay
+- ⚡ Fun fact: I play watch cricket, recently got PS4, Cook and eat bascially a Foodie(Vegeterian)
